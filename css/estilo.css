@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+
+body{
+    background-color: #f5d7fa;
+}
+#productos{
+    color: #6c4274;
+    text-align: center;
+    text-transform: uppercase;
+}
+header{
+    padding: 5px 10px;
+    margin: 5px 15px 55px 5px;
+}
+button{ 
+    background-color: #f1c8f8;
+}
+img.logo{
+    width: 200px;
+    height: 200px;
+}
+#banner{
+    width: 300px;
+    height: 100px;
+    padding: 10px 20px 30px 40px;
+    margin: 5px 15px 25px 35px;
+}
+    
